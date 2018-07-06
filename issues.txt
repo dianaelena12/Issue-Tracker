@@ -1,0 +1,5 @@
+Nu merge netul,Open,Marius,-
+Nu merge reteaua,Closed,Marius,Alex
+Ceva nu e ok 1,Open,Marius,-
+Ceva nu e ok 2,Closed,Marius,Ioana
+Ceva nu e ok 3,Closed,Marius,Ioana
